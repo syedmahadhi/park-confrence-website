@@ -1,0 +1,18 @@
+
+.codeblock{
+ background: #EEE;
+ color: #030;
+ line-height: 1.3em;
+ padding: 1em;
+ border: 1px solid #CCC
+}
+.code{
+ font-family: "Courier New", Courier, monospace;
+}
+.highlight{
+	font-weight: bold;
+}
+.littlelink{
+  float: right;
+	font-size: small;
+}
